@@ -14,3 +14,9 @@
 :-moz-placeholder { /* Firefox 18- */
   font-weight: 500;
 }
+
+@media (min-width: 1200px) {
+  .menuingles{
+    margin-left: -30px;
+  }
+}
